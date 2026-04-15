@@ -1,2 +1,2 @@
-# TOI-MY-FAV
+# Project 2
 MY repository 
